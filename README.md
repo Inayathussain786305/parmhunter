@@ -1,5 +1,3 @@
-# parmhunter
-Lightweight Bash tool for hunting URL parameters during bug bounty recon — great for discovering XSS, IDOR, SSRF, and LFI vectors.
 # 🕵️‍♂️ ParmHunter – Parameter Discovery Tool for Bug Bounty Recon 🎯
 
 **Parmhunter** is a lightweight, high-utility Bash tool developed by **Inayat Hussain** to find hidden or common parameters in target URLs during bug bounty reconnaissance. It helps uncover vulnerable query parameters for further testing, such as **XSS**, **SSRF**, **IDOR**, **LFI**, and more.
@@ -74,11 +72,7 @@ https://target.com/file.php?file=../../etc/passwd
 Made by:
 
 Inayat Hussain (a.k.a. Inayat Raj Chohan)
-🧠 Bug Bounty Hunter | Bash Dev | Cybersecurity Enthusiast
-🌐 LinkedIn
-📘 Facebook: Inayat Raj Chohan
-🐙 GitHub: https://github.com/your-github-username
-⚠️ Legal Disclaimer
+🧠 Bug Bounty Hunter | Bash Dev | Senior Offensive Security Engineer
 
 Use ParmHunter only on systems you are authorized to test. Unauthorized scanning or probing is illegal. This tool is for ethical hackers, students, and red teamers working within the law.
 🙌 Support My Work
